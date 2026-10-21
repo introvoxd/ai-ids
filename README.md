@@ -77,7 +77,8 @@ Frontend:
 https://ai-ids-five.vercel.app
 
 Backend:
-https://ai-ids-iot-8y4f.onrender.com
+Render.com
+
 
 ---
 
