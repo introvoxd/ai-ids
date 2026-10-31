@@ -1,0 +1,40 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+
+# Node / frontend build artifacts
+node_modules/
+.env
+.npm/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local deployment config
+.env.local
+*.log
+
+# Model artifacts and generated files
+*.model
+*.bin
+*.pickle
+*.pkl
+
+# GitHub / local dev overrides
+*.orig
