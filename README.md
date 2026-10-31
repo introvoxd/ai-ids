@@ -52,7 +52,10 @@ https://www.unb.ca/cic/datasets/iotdataset-2023.html
 ## Deployment
 
 ### Frontend
-**Vercel**
+**Vercel** https://ai-ids-five.vercel.app/ 
+Login detail :- 
+        user:     admin
+        password: admin
 
 ### Backend
 **Render**
