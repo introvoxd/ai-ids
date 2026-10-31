@@ -90,7 +90,7 @@ AI-IDS/
 │   ├── js/
 │   ├── vercel.json
 │   └── assets/ (if present in your local setup)
-└── model/ (if created in a local branch or deployment environment)
+└── model
 ```
 
 ## Dataset
